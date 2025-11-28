@@ -188,5 +188,6 @@ with gr.Blocks(theme=theme, css=custom_css, title="Book Recommender") as dashboa
         outputs=output
     )
 
+
 if __name__ == "__main__":
     dashboard.launch()
