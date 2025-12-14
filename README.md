@@ -57,11 +57,11 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 3.  **Çevre Değişkenlerini Ayarlayın:**
     Google Generative AI modellerini kullanmak için API anahtarına ihtiyacınız var. `.env` dosyası oluşturun:
     ```env
-    GOOGLE_API_KEY=senin_google_api_anahtarin
+    GOOGLE_API_KEY=google_api_anahtarin
     ```
 
 4.  **Uygulamayı Başlatın:**
     ```bash
     python app.py
     ```
-    *Terminalde verilen yerel linke (http://127.0.0.1:7860) tıklayarak arayüze ulaşabilirsiniz.*
+
