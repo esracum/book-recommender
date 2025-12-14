@@ -62,6 +62,6 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 4.  **Uygulamayı Başlatın:**
     ```bash
-    python app.py
+    python dashboard.py
     ```
 
