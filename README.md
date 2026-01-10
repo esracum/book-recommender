@@ -45,7 +45,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Repoyu klonlayın:**
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/repo-adi.git](https://github.com/KULLANICI_ADIN/repo-adi.git)
+    git clone [https://github.com/esracum/book-recommender.git](https://github.com/esracum/book-recommender.git)
     cd repo-adi
     ```
 
@@ -55,10 +55,10 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
     ```
 
 3.  **Çevre Değişkenlerini Ayarlayın:**
-    Google Generative AI modellerini kullanmak için API anahtarına ihtiyacınız var. `.env` dosyası oluşturun:
+    Google Generative AI modellerini kullanmak için Google AI Studio'dan aldığınız API anahtarına ihtiyacınız var. `.env` dosyası oluşturun:
     ```env
     GOOGLE_API_KEY=google_api_anahtari
     ```
-4. **Eğer pip veya .venv vs. uğraşmak yerine uv kullanmak isterseniz neden_uv.md dosyasından uv kurulumuna detaylı bakabilirsiniz.**
+4. **Eğer pip değil de uv ile .venv olusaturacaksanız "neden_uv.md" adlı dosyadaki kılavuzdan  uv kurulumunu daha detaylı inceleyebilirsiniz.**
 
 
