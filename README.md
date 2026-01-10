@@ -10,7 +10,7 @@ Bu proje, Doğal Dil İşleme (NLP) tekniklerini kullanarak uçtan uca geliştir
 ## Proje Demosu
 *Projenin çalışma mantığını ve arayüzünü aşağıdaki videodan izleyebilirsiniz.*
 
-https://github.com/user-attachments/assets/9d7a0409-879c-4d7f-b19a-9907227c1ddf
+https://www.youtube.com/watch?v=O51FDgt2Lxk&t=15s
 
 
 
