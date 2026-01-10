@@ -39,7 +39,7 @@ Metinlerin anlamsal olarak aranabilmesi için vektör veritabanı mimarisi kurul
 ### 5. Kullanıcı Arayüzü (Gradio)
 Tüm arka plan süreçleri, **Gradio** ile geliştirilen modern ve interaktif bir web arayüzünde birleştirildi.
 
-## 🛠️ Kurulum
+## Kurulum
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
@@ -57,11 +57,8 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 3.  **Çevre Değişkenlerini Ayarlayın:**
     Google Generative AI modellerini kullanmak için API anahtarına ihtiyacınız var. `.env` dosyası oluşturun:
     ```env
-    GOOGLE_API_KEY=google_api_anahtarin
+    GOOGLE_API_KEY=google_api_anahtari
     ```
+4. **Eğer pip veya .venv vs. uğraşmak yerine uv kullanmak isterseniz neden_uv.md dosyasından uv kurulumuna detaylı bakabilirsiniz.**
 
-4.  **Uygulamayı Başlatın:**
-    ```bash
-    python dashboard.py
-    ```
 
