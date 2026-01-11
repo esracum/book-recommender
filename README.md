@@ -7,7 +7,7 @@
 
 Bu proje, Doğal Dil İşleme (NLP) tekniklerini kullanarak uçtan uca geliştirilmiş bir **Kitap Öneri Sistemi**dir. Standart anahtar kelime aramalarının ötesine geçerek, kullanıcıların sorgularını hem **anlamsal (semantic)** hem de **duygusal (sentiment)** bağlamda analiz eder ve en uygun kitaplarla eşleştirir.
 
-[![NLP Kitap Önerisi Sistemi Detaylı Anlatım](https://img.youtube.com/vi/O51FDgt2Lxk/maxresdefault.jpg)](https://www.youtube.com/watch?v=O51FDgt2Lxk)
+[![NLP Kitap Önerisi Sistemi Detaylı Anlatım](https://img.youtube.com/vi/O51FDgt2Lxk/maxresdefault.jpg)](https://youtu.be/JFb5Wh8Cx7E?si=5yk_9yve6mWkVnkx)
 
 *Görsele tıklayarak YouTube üzerinden izleyebilirsiniz.*
 
